@@ -5,3 +5,6 @@ Mikkel Thorup found the first deterministic algorithm to solve the classic singl
 Initializing the buckets takes a lot of time, compared to the search time of the algorithm. However, as soon as all data structures have been prepared, they don’t need to be computed again – this makes Thorup’s algorithm very attractive for repetitive queries.
 
 My Bachelor Thesis consists of a Java implementation of the algorithms by Thorup and Dijkstra and their descriptions, as well as the comparison of their running times.
+
+* [Publication](https://onedrive.live.com/?cid=614466D76208072C&id=614466D76208072C%21157&parId=614466D76208072C%21153&o=OneUp)
+* [Presentation](https://www.slideshare.net/npruehs/implementation-of-thorups-linear-time-algorithm-for-undirected-single-source-shortest-paths-with-positive-integer-weights)
