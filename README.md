@@ -6,5 +6,5 @@ Initializing the buckets takes a lot of time, compared to the search time of the
 
 My Bachelor Thesis consists of a Java implementation of the algorithms by Thorup and Dijkstra and their descriptions, as well as the comparison of their running times.
 
-* [Publication](https://onedrive.live.com/?cid=614466D76208072C&id=614466D76208072C%21157&parId=614466D76208072C%21153&o=OneUp)
+* [Publication](https://github.com/npruehs/thorup/releases/download/1.0/BachelorThesis.pdf)
 * [Presentation](https://www.slideshare.net/npruehs/implementation-of-thorups-linear-time-algorithm-for-undirected-single-source-shortest-paths-with-positive-integer-weights)
